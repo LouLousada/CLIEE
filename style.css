@@ -1,6 +1,7 @@
 body{
-    height: 915;
-    width: 412;
+  /**/
+    height: 1920;
+    width: 1080;
     margin: 0;
     padding:0;
     }
@@ -25,7 +26,7 @@ body{
         box-shadow: 0 0 10px rgba(0,0,0,0.1);
       }
       
-      .header {
+      .header { /*olá bem vindo*/
         background: linear-gradient(180deg, #a48ce0, #c2b6f7);
         padding: 20px;
         border-bottom-left-radius: 20px;
@@ -206,7 +207,3 @@ body{
 body.perfil-ativo .main-buttons {
     display: none;
   }
-  
-
-      
-      
